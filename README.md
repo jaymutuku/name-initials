@@ -1,12 +1,10 @@
 # name-initials
 A Simple JUnit Fundamentals  Application
-
-                    # HOW TO COMPILE THE CLASSES.
+# HOW TO COMPILE THE CLASSES.
                       
 DOUBLE CLICK the compile.bat batch file to compile the files in it.
 
-
-                   # HOW TO RUN THE TEST CLASS
+# HOW TO RUN THE TEST CLASS
  
 DOUBLE CLICK the run.bat batch file to run the InitialsTestCase Class.
 
