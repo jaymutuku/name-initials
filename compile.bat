@@ -1,6 +1,6 @@
 ECHO OFF
  
-SET  CLASSPATH_JAR=SVN_LOCAL\lib\static\junit\junit-4.4.jar
+SET  CLASSPATH_JAR=SVN_LOCAL\lib\static\junit\junit-4.12.jar;hamcrest-core-1.3.jar
 
 SET  SRC_IMPLEMENTATION=SVN_LOCAL\implementation\src
 
@@ -32,7 +32,7 @@ javac -sourcepath %SRC_IMPLEMENTATION% -cp %CLASSPATH_JAR% -d %BUILD_CLASS_DIR_I
 
 javac -sourcepath %SRC_IMPLEMENTATION% -cp %CLASSPATH_JAR%;%BUILD_CLASS_DIR_IMPLEMENTATION%  -d %BUILD_CLASS_DIR_JUNIT% %CLASS_TO_COMPILE_JUNIT%  
 
-
+PAUSE
 
 
 

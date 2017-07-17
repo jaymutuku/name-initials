@@ -1,6 +1,6 @@
 ECHO OFF
 
-SET CLASSPATH=SVN_LOCAL/lib/static/junit/junit-4.4.jar;.
+SET CLASSPATH=SVN_LOCAL\lib\static\junit\junit-4.12.jar;SVN_LOCAL\lib\static\junit\hamcrest-core-1.3.jar
 
 SET BUILD_CLASS_DIR_IMPLEMENTATION=BUILD_LOCAL\implementation\build\classes
 

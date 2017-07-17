@@ -1,20 +1,16 @@
-# name-initials
-A Simple JUnit Fundamentals  Application
-That takes a name and output your initials
-
-### HOW TO COMPILE THE CLASSES.
+### HOW TO COMPILE THE CLASSES(Windows Environment).
                       
 DOUBLE CLICK the compile.bat batch file to compile the files in it.
 
-### HOW TO RUN THE TEST CLASS
+
+### HOW TO RUN THE TEST CLASS(Windows Environment)
  
 DOUBLE CLICK the run.bat batch file to run the InitialsTestCase Class.
 
 The last time I ran it the output was:
 
-JUnit version 4.4
-.Trump.[D,J]
-Time:0.024
+JUnit version 4.12
+. Trump .[D.J]
+Time:0.01
 
 OK (2 tests).
-

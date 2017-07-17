@@ -16,7 +16,7 @@ import java.util.ArrayList;
   * For the checkSurname() I have decided to use a
   * String to compare it with that returned
   *
-  * @author Josphat Ndundu Mutuku jaymutuku@googlemail.com
+  * @author 
   */
 
 public class InitialsTestCase
